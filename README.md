@@ -113,7 +113,6 @@ MS Information Systems — Northeastern University (May 2026)
 
 ---
 
-**Once both repos are updated — update your resume:**
 ```
 CUDA Kernel Optimization (Personal Project)
 - Implemented matrix multiply in CUDA C++ — naive → 
