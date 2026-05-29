@@ -17,7 +17,7 @@
 | Naive CUDA v1 | 42.65 μs | 2.13x slower |
 | Grid-stride v2 | 32.26 μs | 1.61x slower |
 | Float4 vectorized v3 | 31.69 μs | 1.59x slower |
-
+  
 **Lesson:** Memory coalescing, vectorized float4 loads,
 grid-stride loops
 
