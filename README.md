@@ -23,7 +23,7 @@ grid-stride loops
 
 ---
 
-### Matrix Multiply (1024×1024)
+### Matrix Multiply (1024×1024)   
 | Kernel | Latency | vs Naive |
 |--------|---------|---------|
 | PyTorch cuBLAS | 239.6 μs | 6.62x faster |
