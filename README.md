@@ -11,7 +11,7 @@
 ## Results
 
 ### Vector Addition (1M elements)
-| Kernel | Latency | vs PyTorch |
+| Kernel | Latency | vs PyTorch |  
 |--------|---------|-----------|
 | PyTorch built-in | 19.99 μs | 1.00x |
 | Naive CUDA v1 | 42.65 μs | 2.13x slower |
