@@ -42,7 +42,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 | 256 | 100.1 μs | 79.7 μs | 1.26x | 0.13MB |
 | 512 | 108.8 μs | 68.1 μs | **1.60x** | 0.52MB |
 | 1024 | 93.1 μs | 84.2 μs | 1.11x | 2.10MB |
-| 2048 | 101.6 μs | 131.6 μs | 0.77x* | 8.39MB |
+| 2048 | 101.6 μs | 131.6 μs | 0.77x* | 8.39MB |  
 
 *tile size needs tuning at 2048 — see autotuning notes
 
