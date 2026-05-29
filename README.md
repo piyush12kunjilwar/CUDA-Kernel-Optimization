@@ -102,7 +102,7 @@ torch.profiler · load_inline · NVIDIA L4 GPU
 - 🔜 Module 3 — Distributed Training (FSDP + NCCL)
 - 🔜 Module 4 — TensorRT Optimization
 - 🔜 Module 5 — Agentic AI Systems
-
+  
 ## Author
 **Piyush Kunjilwar**
 MS Information Systems — Northeastern University (May 2026)
