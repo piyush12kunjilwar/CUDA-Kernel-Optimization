@@ -62,7 +62,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 - Registers (~20 TB/s) → Shared Memory (~10 TB/s) 
   → L2 Cache → HBM (300 GB/s)
 - **Core insight: GPU is memory-bound, not compute-bound**
-- Optimization = keeping data close to compute units
+- Optimization = keeping data close to compute units   
 
 ### 3. Shared Memory Tiling
 - Load 16×16 tile cooperatively into shared memory
