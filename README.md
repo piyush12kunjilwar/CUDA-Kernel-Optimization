@@ -87,7 +87,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 GPU performance is almost never compute-bound.
 It is almost always memory-bound.
 Good kernel engineering = keeping data as close
-to compute units as possible, for as long as possible.
+to compute units as possible, for as long as possible.  
 ```
 
 ## Tech Stack
