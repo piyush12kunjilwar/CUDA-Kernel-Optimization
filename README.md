@@ -69,7 +69,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 - Reuse 16 times before eviction
 - 16x reduction in HBM reads
 - Foundation of Flash Attention
-
+   
 ### 4. Triton Kernels
 - Python-like syntax, CUDA-level performance
 - Automatic tensor core utilization
