@@ -6,7 +6,7 @@
 ## Hardware
 - **GPU:** NVIDIA L4 (23.7GB, 58 SMs, 7,424 CUDA cores)
 - **CUDA Capability:** 8.9 (Ampere)
-- **Peak FP32:** ~30.3 TFLOPS
+- **Peak FP32:** ~30.3 TFLOPS  
 
 ## Results  
 
