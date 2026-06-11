@@ -115,7 +115,7 @@ MS Information Systems — Northeastern University (May 2026)
 
 ```
 CUDA Kernel Optimization (Personal Project)
-- Implemented matrix multiply in CUDA C++ — naive → 
+- Implemented matrix multiply in CUDA C++ — naive →    
   shared memory tiling → Triton, achieving 7.54x 
   speedup over naive implementation
 - Built Flash Attention from scratch in Triton — 
