@@ -101,7 +101,7 @@ torch.profiler · load_inline · NVIDIA L4 GPU
 - ✅ Module 2 — CUDA Kernel Optimization (this repo)
 - 🔜 Module 3 — Distributed Training (FSDP + NCCL)
 - 🔜 Module 4 — TensorRT Optimization
-- 🔜 Module 5 — Agentic AI Systems
+- 🔜 Module 5 — Agentic AI Systems   
      
 ## Author
 **Piyush Kunjilwar**   
