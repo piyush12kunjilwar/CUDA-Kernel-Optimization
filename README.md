@@ -50,7 +50,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 
 ---
   
-## Key Concepts Implemented
+## Key Concepts Implemented  
   
 ### 1. CUDA Thread Hierarchy
 - Threads → Warps (32) → Blocks → Grid
