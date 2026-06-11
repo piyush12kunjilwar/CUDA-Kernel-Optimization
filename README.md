@@ -30,7 +30,7 @@ grid-stride loops
 | Naive CUDA | 1585.4 μs | baseline |
 | Tiled 16×16 (shared mem) | 1154.5 μs | 1.37x faster |
 | **Triton 32×32** | **210.3 μs** | **7.54x faster** |
-
+   
 **Lesson:** Shared memory tiling reduces HBM reads 16x. 
 Triton automatically leverages tensor cores — matching cuBLAS
 
