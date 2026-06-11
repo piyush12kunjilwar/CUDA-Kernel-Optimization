@@ -74,7 +74,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 - Python-like syntax, CUDA-level performance
 - Automatic tensor core utilization
 - 7.54x faster than naive CUDA
-- Matches cuBLAS without manual optimization
+- Matches cuBLAS without manual optimization  
 
 ### 5. Flash Attention
 - Online softmax — never write N×N matrix to HBM
