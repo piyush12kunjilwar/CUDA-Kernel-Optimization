@@ -48,7 +48,7 @@ Triton automatically leverages tensor cores — matching cuBLAS
 
 **Memory reduction: 5.3x (2.10MB → 0.39MB)**
 
----
+---   
   
 ## Key Concepts Implemented  
   
