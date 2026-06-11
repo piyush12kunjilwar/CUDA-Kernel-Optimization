@@ -8,7 +8,7 @@
 - **CUDA Capability:** 8.9 (Ampere)
 - **Peak FP32:** ~30.3 TFLOPS
 
-## Results
+## Results  
 
 ### Vector Addition (1M elements)
 | Kernel | Latency | vs PyTorch |  
